@@ -1,0 +1,6 @@
+{
+  "name": "CertiChain Auth",
+  "description": "Blockchain-Based Authentication of Academic Certifications in Remote Learning Systems",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
